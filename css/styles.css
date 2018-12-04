@@ -1,0 +1,9 @@
+button{
+  width:200px;
+  height:100px;
+  background: #eee;
+}
+
+#grinch-vid, #sia-vid{
+  display: none;
+}
