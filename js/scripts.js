@@ -11,7 +11,7 @@
         var player;
         var player2;
 //Create all of the videos once the API is ready
-//TAll of the players must be inside this function
+//All of the players must be inside this function
         function onYouTubeIframeAPIReady() {
           player = new YT.Player('grinch-vid', {
             height: '390',
